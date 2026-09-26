@@ -1,0 +1,6 @@
+{
+  "name": "Manutec Chamados",
+  "description": "Sistema de abertura e encerramento de chamados de manutenção para operadores e mecânicos com integração ao Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
